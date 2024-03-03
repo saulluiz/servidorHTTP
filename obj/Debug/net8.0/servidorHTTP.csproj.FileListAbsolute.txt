@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\bin\Debug\net8.0\servidorHTTP.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\bin\Debug\net8.0\servidorHTTP.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\bin\Debug\net8.0\servidorHTTP.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\bin\Debug\net8.0\servidorHTTP.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\bin\Debug\net8.0\servidorHTTP.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\refint\servidorHTTP.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\servidorHTTP.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\Asp.net\servidorHTTP\obj\Debug\net8.0\ref\servidorHTTP.dll
